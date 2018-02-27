@@ -18,7 +18,7 @@ addpath('..\ClusterTool');
 %% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 % CONSTANTS
 % ==================================================================
-FILENAME = 'D:\__gDrive\__PHD\Data\Output\ArtefactDetection\Clustering_MeanShift\Matlab\05CSMEstimator_scaled.xyznxnynzk1k2';
+FILENAME = '..\TestData\05CSMEstimator_non_scaled.xyznxnynzk1k2';
 
 NUMBER_OF_CLUSTERS = 10;
 SAMPLING_DATA = 20000;
