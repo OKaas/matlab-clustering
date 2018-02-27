@@ -16,15 +16,7 @@ profile on
 addpath('..\ClusterTool');
 
 % big data set
-FILENAME = 'D:\__gDrive\__PHD\Data\Output\ArtefactDetection\Clustering_MeanShift\Matlab\05CSMEstimator_scaled.xyznxnynzk1k2';
-
-% OUTPUTFILE = 'D:\__gDrive\__PHD\Data\Output\ArtefactDetection\Clustering_MeanShift\Matlab\Output\05CSMEstimator.xyzc';
-
-% small data set
-% FILENAME = 'D:\__gDrive\__PHD\Data\Output\ArtefactDetection\Clustering_MeanShift\Matlab\05CSMEstimator_small_random.txt';
-
-% FILENAME = 'D:\__gDrive\__PHD\Data\Output\ArtefactDetection\Clustering_MeanShift\Matlab\01RusinkiewiczEstimator_small_random.txt';
-
+FILENAME = '..\TestData\05CSMEstimator_non_scaled.xyznxnynzk1k2';
 
 NUMBER_OF_CLUSTERS = 5;
 INFLUANCE_MINIMAL = 0.2;
